@@ -1,9 +1,7 @@
 # 🎧 Focus Mini
 
 **Focus Mini** is a minimalist desktop focus timer that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
-It helps you maintain concentration during deep work sessions by letting you adjust the balance between rhythm and ambient sound.
-
-> *This software and its README were generated with the help of [DeepSeek](https://deepseek.com), an AI assistant.*
+It helps you *exist in flow* – allowing you to sense time passing while staying fully immersed in your work, all with the assistance of artificial intelligence.
 
 ## ✨ Features
 
@@ -48,3 +46,31 @@ pip install flet sounddevice numpy
 
 # Run the app
 python focusmini.py
+```
+
+## 📦 Creating Your Own Executable
+
+If you change the source code and want to build a fresh `.exe` file:
+
+```bash
+pip install pyinstaller
+python -m PyInstaller --onefile --windowed --name "FocusMini" --hidden-import sounddevice --hidden-import numpy --collect-data flet focusmini.py
+```
+
+The new executable will be inside the `dist` folder.
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+- Built with the [Flet](https://flet.dev) framework.
+- Audio playback powered by `sounddevice` and `numpy`.
+- **Code, documentation, and assistance** generated with the help of [DeepSeek](https://deepseek.com), an AI assistant by DeepSeek Company.
+- Designed to help you *exist in flow* and sense time passing – entirely crafted with artificial intelligence.
+
+---
+
+*Focus Mini – for deep work, with a lot of help from AI.*
+```
