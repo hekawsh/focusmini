@@ -1,5 +1,10 @@
 # 🎧 Focus Mini
 
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img width="270" height="258" alt="image (23)" src="https://github.com/user-attachments/assets/a29ffd4a-16ca-41df-ad68-d4fee3d19295" />
+  <img width="270" height="258" alt="image (24)" src="https://github.com/user-attachments/assets/117b07ff-749b-4f9c-9a88-cad9302a55e9" />
+</div>
+
 **Focus Mini** is a minimalist desktop ticker that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
 It helps you *stay out of flow* – allowing you to sense time passing and remain aware of the present moment, all with the assistance of artificial intelligence.
 
