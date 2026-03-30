@@ -69,8 +69,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - Audio playback powered by `sounddevice` and `numpy`.
 - **Code, documentation, and assistance** generated with the help of [DeepSeek](https://deepseek.com), an AI assistant by DeepSeek Company.
 - Designed to help you *stay out of flow* and remain aware of time passing – entirely crafted with artificial intelligence.
-
----
-
-*Focus Mini – for mindful awareness of time, with a little help from AI.*
 ```
