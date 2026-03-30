@@ -1,7 +1,7 @@
 # 🎧 Focus Mini
 
-**Focus Mini** is a minimalist desktop focus timer that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
-It helps you *exist in flow* – allowing you to sense time passing while staying fully immersed in your work, all with the assistance of artificial intelligence.
+**Focus Mini** is a minimalist desktop timer that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
+It helps you *stay out of flow* – allowing you to sense time passing and remain aware of the present moment, all with the assistance of artificial intelligence.
 
 ## ✨ Features
 
@@ -68,9 +68,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - Built with the [Flet](https://flet.dev) framework.
 - Audio playback powered by `sounddevice` and `numpy`.
 - **Code, documentation, and assistance** generated with the help of [DeepSeek](https://deepseek.com), an AI assistant by DeepSeek Company.
-- Designed to help you *exist in flow* and sense time passing – entirely crafted with artificial intelligence.
+- Designed to help you *stay out of flow* and remain aware of time passing – entirely crafted with artificial intelligence.
 
 ---
 
-*Focus Mini – for deep work, with a lot of help from AI.*
+*Focus Mini – for mindful awareness of time, with a little help from AI.*
 ```
