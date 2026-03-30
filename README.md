@@ -1,21 +1,9 @@
 # 🎧 Focus Mini
 
-<div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-  <img 
-    src="https://github.com/user-attachments/assets/a29ffd4a-16ca-41df-ad68-d4fee3d19295" 
-    alt="Focus Mini screenshot 1"
-    style="width: 45%; min-width: 250px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); transition: transform 0.2s;"
-    onmouseover="this.style.transform='scale(1.02)'"
-    onmouseout="this.style.transform='scale(1)'"
-  />
-  <img 
-    src="https://github.com/user-attachments/assets/117b07ff-749b-4f9c-9a88-cad9302a55e9" 
-    alt="Focus Mini screenshot 2"
-    style="width: 45%; min-width: 250px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); transition: transform 0.2s;"
-    onmouseover="this.style.transform='scale(1.02)'"
-    onmouseout="this.style.transform='scale(1)'"
-  />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a29ffd4a-16ca-41df-ad68-d4fee3d19295" alt="Screenshot 1" width="45%" style="border-radius: 16px; margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/117b07ff-749b-4f9c-9a88-cad9302a55e9" alt="Screenshot 2" width="45%" style="border-radius: 16px; margin: 8px;" />
+</p>
 
 **Focus Mini** is a minimalist desktop ticker that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
 It helps you *stay out of flow* – allowing you to sense time passing and remain aware of the present moment, all with the assistance of artificial intelligence.
