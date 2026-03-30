@@ -1,6 +1,6 @@
 # 🎧 Focus Mini
 
-**Focus Mini** is a minimalist desktop timer that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
+**Focus Mini** is a minimalist desktop ticker that blends a clean, precise tick (every 5 seconds) with a continuous background of **white noise**.  
 It helps you *stay out of flow* – allowing you to sense time passing and remain aware of the present moment, all with the assistance of artificial intelligence.
 
 ## ✨ Features
