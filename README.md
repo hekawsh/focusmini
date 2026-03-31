@@ -47,6 +47,7 @@ If you want to build the executable yourself or modify the code:
    ```bash
    git clone https://github.com/hekawsh/focusmini.git
    cd focusmini
+   cd focusmini
    ```
 
 2. Install the required Python packages:
