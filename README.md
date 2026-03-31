@@ -18,11 +18,7 @@ Adjust the balance to stay aware of time passing – built with Python and Flet.
 
 ## 📸 Screenshots
 
-> *Add your own screenshots here.*  
-> Place them in the repository (e.g., in a folder named `screenshots/`) and link them like this:
-
-![Main window](screenshots/main.png)
-![System tray menu](screenshots/tray.png)
+![Main window](Screenshots/main.png)
 
 ---
 
