@@ -13,7 +13,10 @@ Complete code is generated using Artifical Intelligence ([DeepSeek](https://deep
 
 Just in case to register the "environmental balance" and the average is calculated above the entries.
 
-### How to use:
+### Download
+You can download focusmini.exe from releases. If it isn't allowed by browser, then use the below method.
+
+### Build from source
 
 0. Download [Python](https://www.python.org/downloads/) and follow the steps to install pythonCLI.
 1. Download focusmini.py from release.
