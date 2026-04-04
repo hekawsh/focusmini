@@ -75,7 +75,7 @@ If you want to build the executable yourself or modify the code:
 - Built with the [Flet](https://flet.dev) framework.
 - Audio playback powered by `sounddevice` and `numpy`.
 - System tray and icon support from `pystray` and `Pillow`.
-- **Code and documentation** generated with the help of [DeepSeek](https://deepseek.com) and Gemini, collaboratively refined by the open‑source community.
+- **Code and documentation** generated with the help of [DeepSeek](https://deepseek.com) and Gemini.
 
 ---
 
