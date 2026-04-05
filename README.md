@@ -1,3 +1,5 @@
+### Update for Focus Mini: [Here](https://github.com/hekawsh/droplets/releases)
+
 # 🎧 Focus Mini
 
 A minimalist desktop timer that blends a steady tick (every 5 seconds) with continuous white noise.  
